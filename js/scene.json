@@ -1,0 +1,416 @@
+[
+  {
+    "id": "1001",
+    "description": "发现栏小程序主入口，“最近使用”列表",
+    "groupid": "2006",
+    "group": "快捷入口"
+  },
+  {
+    "id": "1005",
+    "description": "顶部搜索框的搜索结果页",
+    "groupid": "2011",
+    "group": "搜索"
+  },
+  {
+    "id": "1006",
+    "description": "发现栏小程序主入口搜索框的搜索结果页",
+    "groupid": "2011",
+    "group": "搜索"
+  },
+  {
+    "id": "1007",
+    "description": "单人聊天会话中的小程序消息卡片",
+    "groupid": "2007",
+    "group": "聊天会话"
+  },
+  {
+    "id": "1008",
+    "description": "群聊会话中的小程序消息卡片",
+    "groupid": "2007",
+    "group": "聊天会话"
+  },
+  {
+    "id": "1011",
+    "description": "扫描二维码",
+    "groupid": "2012",
+    "group": "条码识别"
+  },
+  {
+    "id": "1012",
+    "description": "长按图片识别二维码",
+    "groupid": "2012",
+    "group": "条码识别"
+  },
+  {
+    "id": "1013",
+    "description": "手机相册选取二维码",
+    "groupid": "2012",
+    "group": "条码识别"
+  },
+  {
+    "id": "1014",
+    "description": "小程序模版消息",
+    "groupid": "2008",
+    "group": "模版消息"
+  },
+  {
+    "id": "1017",
+    "description": "前往体验版的入口页",
+    "groupid": "2001",
+    "group": "测试"
+  },
+  {
+    "id": "1019",
+    "description": "微信钱包",
+    "groupid": "2010",
+    "group": "钱包"
+  },
+  {
+    "id": "1020",
+    "description": "公众号 profile 页相关小程序列表",
+    "groupid": "2002",
+    "group": "公众号"
+  },
+  {
+    "id": "1022",
+    "description": "聊天顶部置顶小程序入口",
+    "groupid": "2006",
+    "group": "快捷入口"
+  },
+  {
+    "id": "1023",
+    "description": "安卓系统桌面图标",
+    "groupid": "2006",
+    "group": "快捷入口"
+  },
+  {
+    "id": "1024",
+    "description": "小程序 profile 页",
+    "groupid": "2008",
+    "group": "模版消息"
+  },
+  {
+    "id": "1025",
+    "description": "扫描一维码",
+    "groupid": "2012",
+    "group": "条码识别"
+  },
+  {
+    "id": "1026",
+    "description": "附近小程序列表",
+    "groupid": "2009",
+    "group": "内部入口"
+  },
+  {
+    "id": "1027",
+    "description": "顶部搜索框搜索结果页“使用过的小程序”列表",
+    "groupid": "2011",
+    "group": "搜索"
+  },
+  {
+    "id": "1028",
+    "description": "我的卡包",
+    "groupid": "2004",
+    "group": "卡券"
+  },
+  {
+    "id": "1029",
+    "description": "卡券详情页",
+    "groupid": "2004",
+    "group": "卡券"
+  },
+  {
+    "id": "1030",
+    "description": "自动化测试下打开小程序",
+    "groupid": "2001",
+    "group": "测试"
+  },
+  {
+    "id": "1031",
+    "description": "长按图片识别一维码",
+    "groupid": "2012",
+    "group": "条码识别"
+  },
+  {
+    "id": "1032",
+    "description": "手机相册选取一维码",
+    "groupid": "2012",
+    "group": "条码识别"
+  },
+  {
+    "id": "1034",
+    "description": "微信支付完成页",
+    "groupid": "2008",
+    "group": "模版消息"
+  },
+  {
+    "id": "1035",
+    "description": "公众号自定义菜单",
+    "groupid": "2002",
+    "group": "公众号"
+  },
+  {
+    "id": "1036",
+    "description": "App 分享消息卡片",
+    "groupid": "2007",
+    "group": "聊天会话"
+  },
+  {
+    "id": "1037",
+    "description": "小程序打开小程序",
+    "groupid": "2013",
+    "group": "移动应用"
+  },
+  {
+    "id": "1038",
+    "description": "从另一个小程序返回",
+    "groupid": "2013",
+    "group": "移动应用"
+  },
+  {
+    "id": "1039",
+    "description": "摇电视",
+    "groupid": "2005",
+    "group": "开发功能"
+  },
+  {
+    "id": "1042",
+    "description": "添加好友搜索框的搜索结果页",
+    "groupid": "2011",
+    "group": "搜索"
+  },
+  {
+    "id": "1043",
+    "description": "公众号模板消息",
+    "groupid": "2002",
+    "group": "公众号"
+  },
+  {
+    "id": "1044",
+    "description": "带 shareTicket 的小程序消息卡片",
+    "groupid": "2007",
+    "group": "聊天会话"
+  },
+  {
+    "id": "1045",
+    "description": "朋友圈广告",
+    "groupid": "2003",
+    "group": "广告"
+  },
+  {
+    "id": "1046",
+    "description": "朋友圈广告详情页",
+    "groupid": "2003",
+    "group": "广告"
+  },
+  {
+    "id": "1047",
+    "description": "扫描小程序码",
+    "groupid": "2012",
+    "group": "条码识别"
+  },
+  {
+    "id": "1048",
+    "description": "长按图片识别小程序码",
+    "groupid": "2012",
+    "group": "条码识别"
+  },
+  {
+    "id": "1049",
+    "description": "手机相册选取小程序码",
+    "groupid": "2012",
+    "group": "条码识别"
+  },
+  {
+    "id": "1052",
+    "description": "卡券的适用门店列表",
+    "groupid": "2004",
+    "group": "卡券"
+  },
+  {
+    "id": "1053",
+    "description": "搜一搜的结果页",
+    "groupid": "2011",
+    "group": "搜索"
+  },
+  {
+    "id": "1054",
+    "description": "顶部搜索框小程序快捷入口",
+    "groupid": "2011",
+    "group": "搜索"
+  },
+  {
+    "id": "1056",
+    "description": "音乐播放器菜单",
+    "groupid": "2005",
+    "group": "开发功能"
+  },
+  {
+    "id": "1057",
+    "description": "钱包中的银行卡详情页",
+    "groupid": "2010",
+    "group": "钱包"
+  },
+  {
+    "id": "1058",
+    "description": "公众号文章",
+    "groupid": "2002",
+    "group": "公众号"
+  },
+  {
+    "id": "1059",
+    "description": "体验版小程序绑定邀请页",
+    "groupid": "2001",
+    "group": "测试"
+  },
+  {
+    "id": "1064",
+    "description": "微信连Wi-Fi状态栏",
+    "groupid": "2005",
+    "group": "开发功能"
+  },
+  {
+    "id": "1067",
+    "description": "公众号文章广告",
+    "groupid": "2003",
+    "group": "广告"
+  },
+  {
+    "id": "1068",
+    "description": "附近小程序列表广告",
+    "groupid": "2003",
+    "group": "广告"
+  },
+  {
+    "id": "1069",
+    "description": "移动应用",
+    "groupid": "2013",
+    "group": "移动应用"
+  },
+  {
+    "id": "1071",
+    "description": "钱包中的银行卡列表页",
+    "groupid": "2010",
+    "group": "钱包"
+  },
+  {
+    "id": "1072",
+    "description": "二维码收款页面",
+    "groupid": "2012",
+    "group": "条码识别"
+  },
+  {
+    "id": "1073",
+    "description": "客服消息列表下发的小程序消息卡片",
+    "groupid": "2007",
+    "group": "聊天会话"
+  },
+  {
+    "id": "1074",
+    "description": "公众号会话下发的小程序消息卡片",
+    "groupid": "2002",
+    "group": "公众号"
+  },
+  {
+    "id": "1077",
+    "description": "摇周边",
+    "groupid": "2009",
+    "group": "内部入口"
+  },
+  {
+    "id": "1078",
+    "description": "连Wi-Fi成功页",
+    "groupid": "2005",
+    "group": "开发功能"
+  },
+  {
+    "id": "1079",
+    "description": "微信游戏中心",
+    "groupid": "2009",
+    "group": "内部入口"
+  },
+  {
+    "id": "1081",
+    "description": "客服消息下发的文字链",
+    "groupid": "2007",
+    "group": "聊天会话"
+  },
+  {
+    "id": "1082",
+    "description": "公众号会话下发的文字链",
+    "groupid": "2002",
+    "group": "公众号"
+  },
+  {
+    "id": "1084",
+    "description": "朋友圈广告原生页",
+    "groupid": "2003",
+    "group": "广告"
+  },
+  {
+    "id": "1089",
+    "description": "微信聊天主界面下拉，“最近使用”栏",
+    "groupid": "2006",
+    "group": "快捷入口"
+  },
+  {
+    "id": "1090",
+    "description": "长按小程序右上角菜单唤出最近使用历史",
+    "groupid": "2006",
+    "group": "快捷入口"
+  },
+  {
+    "id": "1091",
+    "description": "公众号文章商品卡片",
+    "groupid": "2002",
+    "group": "公众号"
+  },
+  {
+    "id": "1092",
+    "description": "城市服务入口",
+    "groupid": "2010",
+    "group": "钱包"
+  },
+  {
+    "id": "1095",
+    "description": "小程序广告组件",
+    "groupid": "2003",
+    "group": "广告"
+  },
+  {
+    "id": "1096",
+    "description": "聊天记录",
+    "groupid": "2007",
+    "group": "聊天会话"
+  },
+  {
+    "id": "1097",
+    "description": "微信支付签约页",
+    "groupid": "2008",
+    "group": "模版消息"
+  },
+  {
+    "id": "1099",
+    "description": "页面内嵌插件",
+    "groupid": "2005",
+    "group": "开发功能"
+  },
+  {
+    "id": "1102",
+    "description": "公众号 profile 页服务预览",
+    "groupid": "2002",
+    "group": "公众号"
+  },
+  {
+    "id": "1103",
+    "description": "发现栏小程序主入口，“我的小程序”列表",
+    "groupid": "2006",
+    "group": "快捷入口"
+  },
+  {
+    "id": "1104",
+    "description": "微信聊天主界面下拉，“我的小程序”栏",
+    "groupid": "2006",
+    "group": "快捷入口"
+  }
+]
